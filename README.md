@@ -68,8 +68,7 @@ Análise segmentada por múltiplas dimensões para identificar padrões de churn
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/telecomx-churn-analysis.git
-cd telecomx-churn-analysis
+git clone https://github.com/lililap/telecomx.git
 ```
 
 2. **Instale as dependências:**
@@ -79,7 +78,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 3. **Execute o notebook:**
 ```bash
-jupyter notebook analise_churn_telecomx.ipynb
+jupyter notebook TelecomX_Challenge_Lidia_Lapertosa.ipynb
 ```
 
 ### Executando no Google Colab
